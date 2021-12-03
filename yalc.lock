@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "react-three-physics": {
+      "signature": "6355a0e6f2fe26661352aa911c2b4e5e",
+      "link": true,
+      "replaced": "file:.yalc/react-three-physics"
+    }
+  }
+}
